@@ -10,5 +10,5 @@
 * Use steamdb data for something
 
 #### Links:
-https://cs-agents.com/blog/game-review-affect-game-purchases/
-https://www.dailydot.com/parsec/metacritic-scores-game-sales-gdc-2015/
+* https://cs-agents.com/blog/game-review-affect-game-purchases/
+* https://www.dailydot.com/parsec/metacritic-scores-game-sales-gdc-2015/
